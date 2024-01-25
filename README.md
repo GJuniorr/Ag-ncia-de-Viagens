@@ -7,8 +7,12 @@ A "Explore Mundo", uma Agência de Viagens, está em busca de melhorias para tor
 
 🛠 Ferramentas Usadas para criar o Aplicativo
 Linguagem de programação: Dart
+
 Framework: Flutter
+
 Pacote: Font_Awesome(Para inserir o ícone do Whattsapp, Instagram e Email)
+
 Pacote: Carousel_Slider(Para fazer o carrossel com as imagens dos locais)
+
 Versionado através do Git / Github
 
